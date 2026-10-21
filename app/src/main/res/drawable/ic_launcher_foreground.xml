@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Open book with a spark -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M30,40 Q42,35 54,42 L54,74 Q42,67 30,72 Z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M78,40 Q66,35 54,42 L54,74 Q66,67 78,72 Z" android:fillColor="#FFE3D6" />
+    <path android:pathData="M54,42 L54,74" android:strokeColor="#5B63D6" android:strokeWidth="2" />
+    <path android:pathData="M72,28 L74,33 L79,35 L74,37 L72,42 L70,37 L65,35 L70,33 Z" android:fillColor="#FFC857" />
+</vector>

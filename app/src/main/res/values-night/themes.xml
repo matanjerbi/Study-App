@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Study" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/study_background_dark</item>
+    </style>
+    <color name="study_background_dark">#14152B</color>
+</resources>
